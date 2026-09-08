@@ -46,11 +46,6 @@ Essa organização busca facilitar a manutenção das ferramentas e garantir que
 <img src="assets/logo-usimig.png" alt="Usimig" height="50">
 
 </div>
-
-**Articulação:** Vale  
-**Implementação:** CIEDS  
-**Coinvestidores:** Wabtec, Instituto Equatorial, Usimig
-
 ---
 
 <div align="center">
