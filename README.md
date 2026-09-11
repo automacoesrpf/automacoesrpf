@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="assets/capa-redes.png" alt="capa-redes">
+</p>
+
 # 🌱 Rede de Prosperidade Familiar
 ---
 > Uma tecnologia social que transforma dados em prosperidade.
