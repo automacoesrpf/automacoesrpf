@@ -4,7 +4,7 @@
 
 # 🌱 Rede de Prosperidade Familiar
 ---
-> Uma tecnologia social que transforma dados em prosperidade.
+> Transformamos dados em prosperidade.
 ---
 ## 📌 Sobre o projeto
 
